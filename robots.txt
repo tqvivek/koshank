@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /learn/
+Sitemap: https://koshank.com/sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
